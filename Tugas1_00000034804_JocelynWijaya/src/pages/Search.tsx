@@ -25,10 +25,10 @@ const Search: React.FC = ()=> {
 					<IonCard>
 						<IonRow>
 							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
+								<img src='assets/resources/food.jpg' className='food' />
 							</IonCol>
 							<IonCol>
-								<h4>Ultimate Food</h4>
+								<h4>Ultimate Chicken Breast</h4>
 								<h6>VISUAL DONENESS GUIDES</h6>
 							</IonCol>
 						</IonRow>
@@ -37,10 +37,10 @@ const Search: React.FC = ()=> {
 					<IonCard>
 						<IonRow>
 							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
+								<img src='assets/resources/food.jpg' className='food' />
 							</IonCol>
 							<IonCol>
-								<h4>Ultimate Meat</h4>
+								<h4>Basic Chicken Breast</h4>
 								<h6>VISUAL DONENESS GUIDES</h6>
 							</IonCol>
 						</IonRow>
@@ -49,10 +49,10 @@ const Search: React.FC = ()=> {
 					<IonCard>
 						<IonRow>
 							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
+								<img src='assets/resources/food.jpg' className='food' />
 							</IonCol>
 							<IonCol>
-								<h4>Ultimate Shrimp</h4>
+								<h4>Ultimate Chicken Thighs</h4>
 								<h6>VISUAL DONENESS GUIDES</h6>
 							</IonCol>
 						</IonRow>
@@ -61,10 +61,10 @@ const Search: React.FC = ()=> {
 					<IonCard>
 						<IonRow>
 							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
+								<img src='assets/resources/food.jpg' className='food' />
 							</IonCol>
 							<IonCol>
-								<h4>Ultimate Shrimp</h4>
+								<h4>Foolproof fried Chicken</h4>
 								<h6>VISUAL DONENESS GUIDES</h6>
 							</IonCol>
 						</IonRow>
@@ -73,58 +73,10 @@ const Search: React.FC = ()=> {
 					<IonCard>
 						<IonRow>
 							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
+								<img src='assets/resources/food.jpg' className='food' />
 							</IonCol>
 							<IonCol>
-								<h4>Ultimate Shrimp</h4>
-								<h6>VISUAL DONENESS GUIDES</h6>
-							</IonCol>
-						</IonRow>
-					</IonCard>
-
-					<IonCard>
-						<IonRow>
-							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
-							</IonCol>
-							<IonCol>
-								<h4>Ultimate Shrimp</h4>
-								<h6>VISUAL DONENESS GUIDES</h6>
-							</IonCol>
-						</IonRow>
-					</IonCard>
-
-					<IonCard>
-						<IonRow>
-							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
-							</IonCol>
-							<IonCol>
-								<h4>Ultimate Shrimp</h4>
-								<h6>VISUAL DONENESS GUIDES</h6>
-							</IonCol>
-						</IonRow>
-					</IonCard>
-
-					<IonCard>
-						<IonRow>
-							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
-							</IonCol>
-							<IonCol>
-								<h4>Ultimate Shrimp</h4>
-								<h6>VISUAL DONENESS GUIDES</h6>
-							</IonCol>
-						</IonRow>
-					</IonCard>
-
-					<IonCard>
-						<IonRow>
-							<IonCol>
-								<img src='assets/resources/home_img.png' className='food' />
-							</IonCol>
-							<IonCol>
-								<h4>Ultimate Shrimp</h4>
+								<h4>Juicy Grilled Chicken</h4>
 								<h6>VISUAL DONENESS GUIDES</h6>
 							</IonCol>
 						</IonRow>
