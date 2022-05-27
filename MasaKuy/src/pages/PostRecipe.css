@@ -1,0 +1,91 @@
+.postrecipe-vertical-center {
+    margin-top: 5%;
+}
+
+.center {
+    align-items: center;
+}
+
+.logoBlue {
+    height: auto;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.postrecipe-divider-line{
+    width: 100%;
+    height: 1em;
+    border-bottom: 3px solid #212C62;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.divider-line-title{
+    background-color: white;
+    padding: 20px;
+    color: #212C62;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.width80 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width90 {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resep {
+    background-color: #F2A183;
+    border-radius: 15px;
+    color: #212C62;
+    align-items: center;
+    
+}
+  
+  .image-preview {
+    border: medium solid #212C62;
+    width: 100%;
+    height: 125px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: lightgray;
+    margin-bottom: 5%;
+    margin-top: 2%;
+  }
+  
+  .image-preview p {
+    margin-top: 45px;
+  }
+  
+  .image-preview img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+  .inputFileBtn {
+    display: none;
+  }
+
+  .input-postrecipe{
+    border: medium solid #212C62;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    width: 100%;
+  }
+
+  .postrecipeButtons {
+    width: 65%;
+    --border-radius: 20px;
+}

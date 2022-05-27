@@ -1,0 +1,26 @@
+.home-vertical-center {
+    height: 250px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.center {
+    align-items: center;
+}
+
+.home-button {
+    --border-radius: 20px;
+    width: 150px;
+}
+
+.logoPeach {
+    height: auto;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ion-label {
+    font-weight: bold;
+}
+

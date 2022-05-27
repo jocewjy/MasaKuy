@@ -1,0 +1,7 @@
+{
+  "name": "MasaKuy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

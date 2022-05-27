@@ -1,0 +1,130 @@
+.profile-vertical-center {
+    margin-top: 10%;
+}
+
+.center {
+    align-items: center;
+}
+
+.profilePict {
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+}
+
+.addPict {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.profile-divider-line {
+    width: 100%;
+    height: 1em;
+    border-bottom: 3px solid #212C62;
+    text-align: center;
+    margin-bottom: 15%;
+    margin-top: 15%;
+}
+
+.divider-line-title {
+    background-color: white;
+    padding: 20px;
+    color: #212C62;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.width80 {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.transparent {
+    --background: transparent !important;
+}
+
+.inputProfile {
+    background-color: #212C62;
+    border-radius: 15px;
+    margin-bottom: 5%;
+    color: white;
+    align-items: center;
+    font-size: 14pt;
+}
+
+.profileButton {
+    width: 75%;
+    --border-radius: 20px;
+}
+
+.input-disabled {
+    background-color: #F2A183;
+    color: #212C62;
+}
+
+.input-profile-value {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.preview {
+    right: 0%;
+}
+
+.wrapper {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    background-size: 100% 100%;
+    margin: auto;
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+.file {
+    position: absolute;
+    bottom: 0;
+    outline: none;
+    color: transparent;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px 45px;
+    cursor: pointer;
+    transition: 0.5s;
+    display: none;
+}
+
+.file::-webkit-file-upload-button {
+    visibility: visible;
+}
+
+.nophoto {
+    margin-top: 75px;
+    text-align: center;
+    color: #212C62;
+}
+
+.newPhotoBtn {
+    margin-left: 57%;
+    margin-top: -17%;
+    position: relative;
+    --border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
